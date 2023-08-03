@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SetayeshMotamedi
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in programming and coding
+- 🌱 I’m currently learning CSS,HTML,JAVASCRIPT
+- Love challanging myself
 
 
 <!---
